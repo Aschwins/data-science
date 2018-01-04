@@ -1,6 +1,6 @@
 # Data Science
 
-A markdown website with everything I know about data science. Run with hugo locally: https://gohugo.io/. From the command line with: 'hugo serve'.
+A markdown website with everything I know about data science. Run with hugo locally: https://gohugo.io/. From the command line with: 'hugo serve'. Can also be viewed in Github: -> ../content/post
 
 ## Running locally
 To serve this website locally you will need to (1.) have Hugo and a Sass-compiler installed and (2.) compile the Sass and serve the hugo site.
